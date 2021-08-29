@@ -1,6 +1,6 @@
-# Zasady i zwyczaje klubowe
-[![Image](/ZasD.png)](/ZasD.png)
 
+[![Image](/ZasD.png)](/ZasL.png)
+# Zasady i zwyczaje klubowe
 Ponieważ nieuniknione są zmiany w klubie postanowiłam spisać najważniejsze zasady jakie panują w Demonach. Wiele z nich nie było nigdy spisanych, wzięły się z praktyki, że tak zaczęliśmy robić.  
 To co dla nas jest oczywiste dla nowych osób może wydawać się skomplikowane i nieintuicyjne, zwłaszcza jeśli grały w klubie o zupełnie innych zwyczajach.  
 Zawarłam tutaj też odpowiedzi na często pojawiające się pytania.  
@@ -64,8 +64,8 @@ Zwyczajnie przypomnij na czacie, że brakuje Ci tego krzaka. Bez złości i wyrz
 Jeśli nie rozdałeś lub krzaki cofnęło, być może zdążysz rozdać jeszcze przed regeneracją krzaków a być może będzie trzeba brakujące krzaki uzupełnić z dodatkowego konta.
 ## Gra nie pozwala mi dać krzaki, pisze, że dopiero za 23 godziny!
 Krzaki tym samym graczom można dawać co 22 godziny. Kierować się należy tylko licznikiem na łódce, gdzie widać listę odbiorców. To jedyne miejsce, gdzie ten licznik widać. Dlatego mamy taki system, żeby dostawać od innych graczy, żeby nam to nie znikało z łódki, kiedy ktoś nam krzaka posadzi.  
-![Image](/BushCount1.png)]  
-![Image](/BushCount2.png)]  
+![Image](/BushCount1.png)  
+![Image](/BushCount2.png)  
 Ten licznik widać, kiedy odwiedzamy graczy, nie jest on jednak związany w żaden sposób z tym, o której daliśmy tej osobie krzaka. U każdego zobaczycie dokładnie ten sam czas, nawet jeśli krzaki rozdaliście na przestrzeni kilku godzin, lub nawet dni.
 Jest to odliczanie do momentu, kiedy wygeneruje wam się cały nowy zestaw krzaków.
 ## Wyzwania
