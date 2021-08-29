@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 
 ```
-[Link](/ZasD.png) and ![Image](/ZasD.png)
+[![Image](/ZasD.png)](/ZasD.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
