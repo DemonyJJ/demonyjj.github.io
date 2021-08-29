@@ -1,4 +1,4 @@
-## Zasady klubowe ##
+# Zasady klubowe
 [![Image](/ZasD.png)](/ZasD.png)
 
 ## Welcome to GitHub Pages
