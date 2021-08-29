@@ -3,3 +3,7 @@ title: Blogging Like a Hacker [Image](/ZasD.png)
 show_downloads: false
 plugins:
 - jekyll-titles-from-headings
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
