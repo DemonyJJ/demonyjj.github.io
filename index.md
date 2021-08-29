@@ -1,3 +1,6 @@
+## Zasady klubowe ##
+[![Image](/ZasD.png)](/ZasD.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DemonyJJ/DemonyJJ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,7 +28,6 @@ Syntax highlighted code block
 
 
 ```
-[![Image](/ZasD.png)](/ZasD.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
