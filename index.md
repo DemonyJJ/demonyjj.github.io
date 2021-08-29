@@ -1,9 +1,10 @@
 # Zasady i zwyczaje klubowe
 [![Image](/ZasD.png)](/ZasD.png)
 
-Ponieważ nieuniknione są zmiany w klubie postanowiłam spisać najważniejsze zasady jakie panują w Demonach. Wiele z nich nie było nigdy spisanych, wzięły się z praktyki, że tak zaczęliśmy robić. To co dla nas jest oczywiste dla nowych osób może wydawać się skomplikowane i nieintuicyjne, zwłaszcza jeśli grały w klubie o zupełnie innych zwyczajach.
-Zawarłam tutaj też odpowiedzi na często pojawiające się pytania.
-Grafikę (taką tą ładną) przygotowała dla was Kasia Ska - Kaer.
+Ponieważ nieuniknione są zmiany w klubie postanowiłam spisać najważniejsze zasady jakie panują w Demonach. Wiele z nich nie było nigdy spisanych, wzięły się z praktyki, że tak zaczęliśmy robić.  
+To co dla nas jest oczywiste dla nowych osób może wydawać się skomplikowane i nieintuicyjne, zwłaszcza jeśli grały w klubie o zupełnie innych zwyczajach.  
+Zawarłam tutaj też odpowiedzi na często pojawiające się pytania.  
+Grafikę (taką tą ładną) przygotowała dla was [Kasia Ska](https://www.facebook.com/KaerJP).
 
 ## Obecność w klubie
 Dajemy graczom możliwość poruszać się swobodnie, odwiedzać inne kluby na kawy, pomoc w kotylionach czy z jakichkolwiek innych przyczyn, nie trzeba pytać o pozwolenie żeby wyjść i wrócić do klubu.
