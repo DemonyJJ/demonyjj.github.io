@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Blogging Like a Hacker [Image](/ZasD.png)
 show_downloads: false
+plugins:
+- jekyll-titles-from-headings
