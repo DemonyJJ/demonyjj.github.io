@@ -69,7 +69,19 @@ Krzaki tym samym graczom można dawać co 22 godziny. Kierować się należy tyl
 Ten licznik widać, kiedy odwiedzamy graczy, nie jest on jednak związany w żaden sposób z tym, o której daliśmy tej osobie krzaka. U każdego zobaczycie dokładnie ten sam czas, nawet jeśli krzaki rozdaliście na przestrzeni kilku godzin, lub nawet dni.
 Jest to odliczanie do momentu, kiedy wygeneruje wam się cały nowy zestaw krzaków.
 ## Wyzwania
-W Demonach wyzwania każdy gra jak chce. Bardzo często mamy pudła ponieważ przechodzimy sobie z klubu do klubu. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie. Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce komuś.
+W Demonach wyzwania każdy gra jak chce. Bardzo często mamy pudła ponieważ przechodzimy sobie z klubu do klubu. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie. Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce komuś, żeby się nie zmarnowały nagrody.
+### Kiedy zmieniamy klub
+[![Image](/Transfer1.png)](/Transfer2.png)  
+
+# Bezpieczeństwo
+Żeby nie stracić swojego postępu w grze warto zadbać o kilka rzeczy:  
+1. Zrób zdjęcie swojego numeru UID i wyślij sobie na maila, w ten sposób jeśli twój telefon zaginie, lub przestanie działać cały czas będziesz mieć dostęp do zdjęcia z numerem UID.
+2. Połącz konto w grze z kontem na FB, dzięki temu będziesz móc się logować na konto z różnych urządzeń.
+3. Najlepiej mieć inne hasło do maila niż do FB.
+![Image](/UID.png) 
+
+## Bezpieczne logowanie się na konto
+[![Image](/LOG1.png)](/LOG2.png)  
 
 ## Wakacje / Wyjazdy
 Jeżeli zbliża Ci się wyjazd, albo pobyt w szpitalu, czy cokolwiek, nie musisz podawać szczegółów, jeśli nie chcesz, ale napisz jak długo Ciebie nie będzie i czy będziesz w stanie dawać krzaki raz dziennie, być na kawach i brać udział w wyzwaniach. 
@@ -94,15 +106,15 @@ To zadanie oznacza wyremontowanie latarni, kaplicy, statku, chaty górskiej i pt
 Co 20 godzin można zrobić 2. Jedynie przy ukończeniu jednego obiektu i rozpoczęciu następnego można zrobić 4 remonty od ręki, warto to mieć na uwadze.
 Macie możliwość albo odrzucać wszelkie tego typu zadania, albo trzymać sobie taki obiekt gotowy. Opóźni wam to dotarcie do ptaszarni i hodowli ptaków, to już zależy od was, czy wam się do tego spieszy.
 ### Podnieś poziom
-
 W tym zadaniu jedyne, co trzeba zrobić to zebrać tyle kwiatków, ile potrzeba do tego, żeby podnieść swój poziom. Można rozpakować czerwoną kokardę z wybudowanej dekoracji, można coś wyciągnąć ze statku, zrobić remont, postawić na wyspie cudowną dekorację,  dostać kwiatki od Jacka samolotem, lub pozłocić budynek. Nie ma znaczenia, byle dało tyle kwiatków, ile trzeba do następnego poziomu.
 Warto nie otwierać sobie za dużo poziomów do przodu, tylko tyle, ile potrzebne Ci do gry a nadmiar kwiatków chować na statku na wypadek takiego zadania. Można też nie stawiać na wyspie cudownych dekoracji, jakie wypadły Ci z pudełka. Przy zakończeniu miesiąca automatycznie zostaną schowane na statku.
 ### Przejdź do nowego rozdziału i zbierz 4 poszlaki
 Te dwa zadania można znacząco przyspieszyć używając premii gwiazdkowej (Starbooster).
  
-Do nowego rozdziału wystarczy ci zdobycie 20 gwiazdek, wszystko jedno, czy zrobisz 5 scen na 4 gwiazdki, czy np jedną na 5 gwiazdek a jedną na 3. Możesz szybciej przejść, żeby odhaczyć sobie zadanie a następnie jak masz zadanie do którego musisz tylko grać (np. zagraj 48 razy, uzbieraj z gry monety, materiały, lub znajdź 600 rzeczy) to wtedy sobie wracasz i wykańczasz sceny do końca zdobywając różowe pudła. Można też wrócić do tych scen wtedy, kiedy masz zadanie pobij rekord.
+Do nowego rozdziału wystarczy ci zdobycie 20 gwiazdek, wszystko jedno, czy zrobisz 5 scen na 4 gwiazdki, czy np jedną na 5 gwiazdek a jedną na 3. Możesz szybciej przejść, żeby odhaczyć sobie zadanie a następnie jak masz zadanie do którego musisz tylko grać (np. zagraj 48 razy, uzbieraj z gry monety, materiały, lub znajdź 600 rzeczy) to wtedy sobie wracasz i wykańczasz sceny do końca zdobywając różowe pudła. Można też wrócić do tych scen wtedy, kiedy masz zadanie pobij rekord.  
 Osobiście polecam trochę dłużej pograć scenę nawet jak już się zdobyło 5 gwiazdek i różowe pudło. Można sobie np. samemu ustalić ile punktów trzeba osiągnąć, żeby przejść do następnej sceny. To bardzo fajny trening szybkości a jednocześnie pozwala zarobić monetki i nie grać za szybko, żeby nie zabrakło Ci kwiatków do otwarcia następnych scen.
 
 ### Wydaj 640, 2000 lub 4000 monet na kolekcję sezonową
 To są super zadania do zrobienia od ręki. Każdy sezon zbiera punkty sezonowe za które otrzymuje się nagrodę główną. Warto nie zdobywać jej za szybko, bo jeśli zdobędziesz nagrodę główną, przestaną ci wpadać te zadania a one są proste i szybkie do zrobienia. Dlatego warto nie zdejmować kokard żeby nie zakończyć sezonu zbyt szybko. Dopiero pod koniec miesiąca na tydzień przed końcem upewnij się, że masz wystarczająco zakupione, żeby ewentualnie jeszcze dokupić i żeby zdążyło się dobudować bez przyspieszania diamentami. 
 
+# Historia Demonów
