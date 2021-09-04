@@ -5,7 +5,7 @@
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" rel="author" href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="navbar-brand" rel="author" href="{{ "#" | relative_url }}">{{ site.title | escape }}</a>
     <div class="collapse navbar-collapse nav flex-column" id="navbarSupportedContent" data-toggle="collapse"
       data-target=".navbar-collapse">
       {% include toc.html html=content item_class='nav-item' h_max=2 item_class='nav-item'
