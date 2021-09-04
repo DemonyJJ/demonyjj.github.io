@@ -1,5 +1,6 @@
 
-[![Image](/ZasD.png)](/ZasL.png)
+[![Image](/img/ZasD.png)](/img/ZasL.png)  
+
 # Zasady i zwyczaje klubowe
 Ponieważ nieuniknione są zmiany w klubie postanowiłam spisać najważniejsze zasady jakie panują w Demonach. Wiele z nich nie było nigdy spisanych, wzięły się z praktyki, że tak zaczęliśmy robić.  
 To co dla nas jest oczywiste dla nowych osób może wydawać się skomplikowane i nieintuicyjne, zwłaszcza jeśli grały w klubie o zupełnie innych zwyczajach.  
@@ -40,6 +41,7 @@ To są konta połączone z kontami z Demonów. Dodajemy się do znajomych po to,
 [Sylwia](https://www.facebook.com/sylwia.truszczynska)  
 [Wiatraczek](https://www.facebook.com/monika.smuga.1)  
 [ZamyślonaHayes](https://www.facebook.com/ZamyslonaHayes)  
+
 # Kawy
 **Codziennie punktualnie o 20:30 serwujemy 2 - 3 kawy (większość zazwyczaj po 3), dzień przed wyzwaniem obowiązkowo 3.**
 Zazwyczaj większość z nas serwuje 3 codziennie, ale nie chcę mieć obowiązku stawiania 3, żeby nie trzeba było kupować diamentów, żeby móc z nami grać.  
@@ -51,7 +53,7 @@ Warto być 10 minut wcześniej w klubie i warto jeśli jest możliwość śledzi
 
 # Krzaki
 ## Jak rozumieć tabelkę krzaków?
-[![Image](/KrzakExpl.png)](/KrzakExpl.png)
+[![Image](/img/KrzakExpl.png)](/img/KrzakExpl.png)
 
 Codziennie dajesz tym samym graczom krzaki, a otrzymujesz od 6 innych graczy. Dzięki temu nie znika Ci z łódki informacja kiedy krzaka dostałeś i otrzymałeś od danej osoby ostatnio. Jest to bardzo wygodne, bo wszystkie ważne informacje znajdziesz w grze. Do tabelki zaglądasz tylko wtedy, kiedy jest zmiana (choć raz dziennie sprawdzić czat informacyjny).
 
@@ -64,24 +66,24 @@ Zwyczajnie przypomnij na czacie, że brakuje Ci tego krzaka. Bez złości i wyrz
 Jeśli nie rozdałeś lub krzaki cofnęło, być może zdążysz rozdać jeszcze przed regeneracją krzaków a być może będzie trzeba brakujące krzaki uzupełnić z dodatkowego konta.
 ## Gra nie pozwala mi dać krzaki, pisze, że dopiero za 23 godziny!
 Krzaki tym samym graczom można dawać co 22 godziny. Kierować się należy tylko licznikiem na łódce, gdzie widać listę odbiorców. To jedyne miejsce, gdzie ten licznik widać. Dlatego mamy taki system, żeby dostawać od innych graczy, żeby nam to nie znikało z łódki, kiedy ktoś nam krzaka posadzi.  
-![Image](/BushCount1.png)  
-![Image](/BushCount2.png)  
+![Image](/img/BushCount1.png)  
+![Image](/img/BushCount2.png)  
 Ten licznik widać, kiedy odwiedzamy graczy, nie jest on jednak związany w żaden sposób z tym, o której daliśmy tej osobie krzaka. U każdego zobaczycie dokładnie ten sam czas, nawet jeśli krzaki rozdaliście na przestrzeni kilku godzin, lub nawet dni.
 Jest to odliczanie do momentu, kiedy wygeneruje wam się cały nowy zestaw krzaków.
 ## Wyzwania
 W Demonach wyzwania każdy gra jak chce. Bardzo często mamy pudła ponieważ przechodzimy sobie z klubu do klubu. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie. Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce komuś, żeby się nie zmarnowały nagrody.
 ### Kiedy zmieniamy klub
-[![Image](/Transfer1.png)](/Transfer2.png)  
+[![Image](/img/Transfer1.png)](/img/Transfer2.png)  
 
 # Bezpieczeństwo
 Żeby nie stracić swojego postępu w grze warto zadbać o kilka rzeczy:  
 1. Zrób zdjęcie swojego numeru UID i wyślij sobie na maila, w ten sposób jeśli twój telefon zaginie, lub przestanie działać cały czas będziesz mieć dostęp do zdjęcia z numerem UID.
 2. Połącz konto w grze z kontem na FB, dzięki temu będziesz móc się logować na konto z różnych urządzeń.
 3. Najlepiej mieć inne hasło do maila niż do FB.
-![Image](/UID.png) 
+![Image](/img/UID.png) 
 
 ## Bezpieczne logowanie się na konto
-[![Image](/LOG1.png)](/LOG2.png)  
+[![Image](/img/LOG1.png)](/img/LOG2.png)  
 
 ## Wakacje / Wyjazdy
 Jeżeli zbliża Ci się wyjazd, albo pobyt w szpitalu, czy cokolwiek, nie musisz podawać szczegółów, jeśli nie chcesz, ale napisz jak długo Ciebie nie będzie i czy będziesz w stanie dawać krzaki raz dziennie, być na kawach i brać udział w wyzwaniach. 
@@ -95,7 +97,7 @@ Zadania, które wymagają zbyt długiego czasu staramy się odrzucać. Np. czter
 ### Odrzucanie zadań
 Warto dobrze znać stan swojego konta, wiedzieć ile monet jest na posiadłości, czy masz na słoiku napiwki do odebrania, czy obiekt się remontuj i kiedy mniej więcej się remont kończy.
 Potrzebna jest ta wiedza po to, żeby decyzję o odrzuceniu zadania podjąć w mgnieniu oka.  
-[![Image](/Reject.png)](/Reject.png)
+[![Image](/img/Reject.png)](/img/Reject.png)
 
 ### Zbierz 45 monet z posiadłości
 Liczą się tylko monetki z głównego budynku. Posiadłość produkuje 1 monetę co 10 min. Max po 10 godzinach - 60 monet. Polecam nie zbierać monet z tego budynku wtedy, kiedy zamierzasz grać. Nie jest to duża strata a za to zadanie ma się zrobione od ręki. Warto też zwrócić uwagę kiedy się je zbiera, następne 45 monet będzie wyprodukuje się za 7 godzin i 30 minut.
