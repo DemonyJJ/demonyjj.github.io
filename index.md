@@ -19,7 +19,7 @@ Być w klubie oznacza, że twoje konto widnieje na liście członków klubu. Nie
 Jeżeli masz więcej kont, możesz je sobie podmieniać, tylko napisz, że to jesteś Ty, żebyśmy Ciebie nie szukali a twojego konta nie wyrzucili z klubu.  
 
 Wychodząc z klubu jeśli zauważysz, że nasi gracze nie mają oficera możesz im go dać. Nie dawaj tarczy kontom, których nie jesteś pewien, do kogo należą, czasem ktoś obcy się przybłąka. ;)
-
+![Image](/img/Badge.png)  
 ## Messenger
 **InfoCzat jest obowiązkowy**, tam wrzucamy najważniejsze informacje dotyczące klubu. Kiedy są wyzwania, kiedy przechodzimy do drugiego klubu, czy zmiany w tabelce krzakowej.
 
