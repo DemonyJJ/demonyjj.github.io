@@ -5,18 +5,20 @@
 Ponieważ nieuniknione są zmiany w klubie postanowiłam spisać najważniejsze zasady jakie panują w Demonach. Wiele z nich nie było nigdy spisanych, wzięły się z praktyki, że tak zaczęliśmy robić.  
 To co dla nas jest oczywiste dla nowych osób może wydawać się skomplikowane i nieintuicyjne, zwłaszcza jeśli grały w klubie o zupełnie innych zwyczajach.  
 Zawarłam tutaj też odpowiedzi na często pojawiające się pytania.  
-Grafikę (taką tą ładną) przygotowała dla was [Kasia Ska](https://www.facebook.com/KaerJP).
+Grafikę przygotowała dla was [Kasia Ska](https://www.facebook.com/KaerJP).
 
 ## Obecność w klubie
 Dajemy graczom możliwość poruszać się swobodnie, odwiedzać inne kluby na kawy, pomoc w kotylionach czy z jakichkolwiek innych przyczyn, nie trzeba pytać o pozwolenie żeby wyjść i wrócić do klubu.
-**Obowiązkowo trzeba być w klubie na kawy** (najlepiej 10 minut wcześniej) oraz dzień przed wyzwaniem o 15 UTC. W Polsce to jest godzina 17 czasu letniego - 16 czasu zimowego.
+**Obowiązkowo trzeba być w klubie na kawy** (najlepiej 10 minut wcześniej) oraz **dzień przed wyzwaniem o 15 UTC**. W Polsce to jest godzina 17 czasu letniego - 16 czasu zimowego.
 Wtedy przebiega rejestracja do wyzwania.
 Najbezpieczniej wejść trochę wcześniej, żeby się nie spóźnić i odczekać co najmniej godzinę. Potem można znowu łazić.
+
+Jeżeli masz więcej kont, możesz je sobie podmieniać, tylko napisz, że to jesteś Ty, żebyśmy Ciebie nie szukali i twojego konta nie wyrzucili z klubu.  
 
 Wychodząc z klubu jeśli zauważysz, że nasi gracze nie mają oficera możesz im go dać. Nie dawaj kontom, których nie jesteś pewien, do kogo należą, czasem ktoś obcy się przybłąka. ;)
 
 ## Messenger
-**InfoCzat jest obowiązkowy**, tam wrzucamy najważniejsze informacje dot klubu. Kiedy są wyzwania, kiedy przechodzimy do drugiego klubu, czy zmiany w tabelce krzakowej.
+**InfoCzat jest obowiązkowy**, tam wrzucamy najważniejsze informacje dotyczące klubu. Kiedy są wyzwania, kiedy przechodzimy do drugiego klubu, czy zmiany w tabelce krzakowej.
 
 Bardzo prosimy o nie pisanie tam komentarzy i śmiesznych gifów, zależy nam na tym, żeby każdy szybko tam był w stanie znaleźć najważniejsze informacje.
 Można natomiast napisać w sprawie kaw, krzaków, miejsca w klubie, wakacji i tym podobnych spraw organizacyjnych.
@@ -24,7 +26,8 @@ Można natomiast napisać w sprawie kaw, krzaków, miejsca w klubie, wakacji i t
 Drugi messenger **Kociokwik** służy do gadania o wszystkim, o czym ma się ochotę rozmawiać i są na nim również gracze June Polska.
 
 # Lista kont FB do polubienia:
-To są konta połączone z kontami z Demonów. Dodajemy się do znajomych po to, żebyśmy nie znikali sobie z łódki nawet jak ktoś wychodzi poza klub, albo podmienia sobie konta na wyzwania, kawy, czy do zbierania kotylionów.  
+To są konta z tabelki krzakowej. Dodajemy się do znajomych po to, żebyśmy nie znikali sobie z łódki nawet jak ktoś wychodzi poza klub, albo podmienia sobie konta na wyzwania, kawy, czy do zbierania kotylionów.  
+
 [Aneta](https://www.facebook.com/kot.vorek)  
 [Beatka_Zagadka](https://www.facebook.com/beata.korzeniewska.92)  
 [Demony](https://www.facebook.com/DemonyJJ)  
@@ -47,13 +50,16 @@ To są konta połączone z kontami z Demonów. Dodajemy się do znajomych po to,
 [ZamyślonaHayes](https://www.facebook.com/ZamyslonaHayes)  
 
 # Kawy
-**Codziennie punktualnie o 20:30 serwujemy 2 - 3 kawy (większość zazwyczaj po 3), dzień przed wyzwaniem obowiązkowo 3.**
-Zazwyczaj większość z nas serwuje 3 codziennie, ale nie chcę mieć obowiązku stawiania 3, żeby nie trzeba było kupować diamentów, żeby móc z nami grać.  
-Kto jeszcze nie ma kaw o mocy 15 piorunów to priorytet na początku nie wydajemy na nic napiwki, tylko żeby podnieść moc kawy na max.
-Warto być 10 minut wcześniej w klubie i warto jeśli jest możliwość śledzić czat informacyjny. Warto też sprawdzić, czy klub jest pełny.
+**Codziennie punktualnie o 20:30 serwujemy 2 - 3 kawy, dzień przed wyzwaniem obowiązkowo 3.**
+Pomimo tego, że kawy są oficjalnie o 20:30, trzeba być w klubie o 20:20. Często zamienamy konta i ustępujemy miejsca graczom potrzebującym dodatkowego doładowania. 
+Wtedy osoba, która oddaje swoje miejsce stawia kawy trochę wcześniej, żeby druga osoba zdążyła wejść przed kawami. Reszta graczy, która nie zamienia się, proszona jest o stawianie kawy o 20:30, żeby nie postawić jak jeszcze nie wszyscy zdążyli się zamienić.
+
+Mile widziane są trzy kawy codziennie, ale jeśli masz mało diamentów, nie krępuj się stawiać dwóch. Nie chcę, żeby ktokolwiek czuł presję kupowania diamentów, żeby móc z nami grać.  
+Jeżeli twoja kawa jeszcze nie daje 15 piorunów, to nie wydawaj napiwków na nic innego dopóki nie uda Ci się wzmocnić kawę. Dzięki temu wszyscy mamy więcej energii.
+
 ### Jeżeli nie możesz być na kawie masz dwie możliwości:
-1. Znajdujesz sobie zastępcę, któremu podajesz dane logowania i ta osoba postawi i wypije kawy za Ciebie (na twoim koncie)
-2. Albo ogłaszasz z wyprzedzeniem, że Ciebie nie będzie i wychodzisz z klubu a ktoś inny sobie skorzysta i podładuje sobie swoje konto.
+1. Znajdujesz sobie zastępcę, któremu podajesz dane logowania i ta osoba postawi i wypije kawy za Ciebie (na twoim koncie).
+2. Piszesz z wyprzedzeniem, że Ciebie nie będzie i wychodzisz z klubu a ktoś inny sobie skorzysta i podładuje sobie swoje konto.
 
 # Krzaki
 ## Jak rozumieć tabelkę krzaków?
@@ -61,16 +67,17 @@ Warto być 10 minut wcześniej w klubie i warto jeśli jest możliwość śledzi
 
 Codziennie dajesz tym samym graczom krzaki, a otrzymujesz od 6 innych graczy. Dzięki temu nie znika Ci z łódki informacja kiedy krzaka dostałeś i otrzymałeś od danej osoby ostatnio. Jest to bardzo wygodne, bo wszystkie ważne informacje znajdziesz w grze. Do tabelki zaglądasz tylko wtedy, kiedy jest zmiana (choć raz dziennie sprawdzić czat informacyjny).
 
-### Co jeśli pojawiła się nowa tabelka a krzaki już są rozdane?
-Nic. :) Po prostu dajesz wg tabelki od następnego razu. Liczymy z tym, że jedni dają krzaki rano, inni wieczorem i że czasem już ktoś krzaki rozdał.
-### Co jeśli się pomyliłem, lub zapomniałem rozdać?
-Jeśli masz drugie konto naprawiasz samodzielnie swój błąd, a na czacie informacyjnym piszesz z jakiego konta poszły krzaki, żeby było wiadomo, że są od Ciebie. Jeśli nie masz takiej możliwości, prosisz o pomoc i ktoś naprawi błąd za Ciebie. Nie przejmuj się, każdemu się może zdarzyć, postaraj się, żeby nie musiał ktoś za Ciebie naprawiać często.
+## Co jeśli pojawiła się nowa tabelka a krzaki już są rozdane?
+Nic. :) Po prostu dajesz wg tabelki od następnego razu. Liczymy z tym, że jedni dają krzaki rano, inni wieczorem albo w nocy i że czasem już ktoś krzaki rozdał.
+## Co jeśli się pomyliłem, lub zapomniałem rozdać?
+Jeśli masz drugie konto naprawiasz samodzielnie swój błąd, a na czacie informacyjnym możesz napisać z jakiego konta poszły krzaki, żeby było wiadomo, że są od Ciebie. Jeśli nie masz takiej możliwości, prosisz o pomoc i ktoś naprawi błąd za Ciebie. Nie przejmuj się, każdemu się może zdarzyć, postaraj się, żeby nie musiał ktoś za Ciebie naprawiać często.
 ### Co jeśli widzę na statku, że od kogoś nie dostałem krzaka już drugi dzień?
-Zwyczajnie przypomnij na czacie, że brakuje Ci tego krzaka. Bez złości i wyrzutów, zwyczajna przypominajka. Jeżeli ktoś Ciebie wywoła, sprawdź w pierwszej kolejności grę. Czasem zdarza się, że rozdane krzaki się cofają, lub nie są widoczne u odbiorcy. Jeśli widać, że krzak podarowałeś, zrób zrzut ekranu i wrzuć na czat. Sprawa załatwiona.
+Zwyczajnie przypomnij na czacie, że brakuje Ci tego krzaka. Bez wyrzutów, zwyczajna przypominajka. Jeżeli ktoś Ciebie wywoła, sprawdź w pierwszej kolejności grę. Czasem zdarza się, że rozdane krzaki się cofają, lub nie są widoczne u odbiorcy. Jeśli widać, że krzak podarowałeś, zrób zrzut ekranu i wrzuć na czat. Sprawa załatwiona.
 Jeśli nie rozdałeś lub krzaki cofnęło, być może zdążysz rozdać jeszcze przed regeneracją krzaków a być może będzie trzeba brakujące krzaki uzupełnić z dodatkowego konta.
 ## Gra nie pozwala mi dać krzaki, pisze, że dopiero za 23 godziny!
 Krzaki tym samym graczom można dawać co 22 godziny. Kierować się należy tylko licznikiem na łódce, gdzie widać listę odbiorców. To jedyne miejsce, gdzie ten licznik widać. Dlatego mamy taki system, żeby dostawać od innych graczy, żeby nam to nie znikało z łódki, kiedy ktoś nam krzaka posadzi.  
 ![Image](/img/BushCount1.png)  
+### Regeneracja krzaków
 ![Image](/img/BushCount2.png)  
 Ten licznik widać, kiedy odwiedzamy graczy, nie jest on jednak związany w żaden sposób z tym, o której daliśmy tej osobie krzaka. U każdego zobaczycie dokładnie ten sam czas, nawet jeśli krzaki rozdaliście na przestrzeni kilku godzin, lub nawet dni.
 Jest to odliczanie do momentu, kiedy wygeneruje wam się cały nowy zestaw krzaków.
