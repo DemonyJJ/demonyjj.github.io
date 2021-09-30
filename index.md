@@ -129,17 +129,15 @@ Liczą się tylko monetki z głównego budynku. Posiadłość produkuje 1 monet�
 100 i 220 monet radziłabym w trakcie ligi odrzucić, ale jak nie ma ligi to ściąga do zbierania monet:
 
 **45 monet**	7 godzin i 30 minut		
-
 **100 monet**	10 godzin + 6 godzin i 40 minut		
-
 **220 monet**	10 godzin +10 godzin +10 godzin + 6 godzin i 40 minut		
 
 ### Remonty
 To zadanie oznacza wyremontowanie latarni, kaplicy, statku, chaty górskiej i ptaszarni.
 Co 20 godzin można zrobić 2. Jedynie przy ukończeniu jednego obiektu i rozpoczęciu następnego można zrobić 4 remonty od ręki, warto to mieć na uwadze.
-Macie możliwość albo odrzucać wszelkie tego typu zadania, albo trzymać sobie taki obiekt gotowy. Opóźni wam to dotarcie do ptaszarni i hodowli ptaków, to już zależy od was, czy wam się do tego spieszy.
+Macie możliwość albo odrzucać wszelkie tego typu zadania, albo remontować tylko kiedy wpadnie takie zadanie. Opóźni wam to dotarcie do ptaszarni i hodowli ptaków, to już zależy od was, czy wam się do tego spieszy. Ilość produkowanej energii jest znikoma a ilość kwiatków można spokojnie zastąpić kupując dekoracje. To już od was zależy. 
 ### Podnieś poziom
-W tym zadaniu jedyne, co trzeba zrobić to zebrać tyle kwiatków, ile potrzeba do tego, żeby podnieść swój poziom. Można rozpakować czerwoną kokardę z wybudowanej dekoracji, można coś wyciągnąć ze statku, zrobić remont, postawić na wyspie cudowną dekorację,  dostać kwiatki od Jacka samolotem, lub pozłocić budynek. Nie ma znaczenia, byle dało tyle kwiatków, ile trzeba do następnego poziomu.
+W tym zadaniu jedyne, co trzeba zrobić to zebrać tyle kwiatków, ile potrzeba do tego, żeby podnieść swój poziom. Można rozpakować czerwoną kokardę z wybudowanej dekoracji, można coś wyciągnąć ze statku, zrobić remont, postawić na wyspie cudowną dekorację z różowego pudła,  dostać kwiatki od Jacka samolotem, lub pozłocić budynek. Nie ma znaczenia, byle dało tyle kwiatków, ile trzeba do następnego poziomu.
 Warto nie otwierać sobie za dużo poziomów do przodu, tylko tyle, ile potrzebne Ci do gry a nadmiar kwiatków chować na statku na wypadek takiego zadania. Można też nie stawiać na wyspie cudownych dekoracji, jakie wypadły Ci z pudełka. Przy zakończeniu miesiąca automatycznie zostaną schowane na statku.
 ### Przejdź do nowego rozdziału i zbierz 4 poszlaki
 Te dwa zadania można znacząco przyspieszyć używając premii gwiazdkowej (Starbooster).
