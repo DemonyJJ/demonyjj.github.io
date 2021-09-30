@@ -127,8 +127,11 @@ Potrzebna jest ta wiedza po to, żeby decyzję o odrzuceniu zadania podjąć w m
 ### Zbierz 45 monet z posiadłości
 Liczą się tylko monetki z głównego budynku. Posiadłość produkuje 1 monetę co 10 min. Max po 10 godzinach - 60 monet. Polecam nie zbierać monet z tego budynku wtedy, kiedy zamierzasz grać. Nie jest to duża strata a za to zadanie ma się zrobione od ręki. Warto też zwrócić uwagę kiedy się je zbiera, następne 45 monet będzie wyprodukuje się za 7 godzin i 30 minut.
 100 i 220 monet radziłabym w trakcie ligi odrzucić, ale jak nie ma ligi to ściąga do zbierania monet:
+
 **45 monet**	7 godzin i 30 minut		
+
 **100 monet**	10 godzin + 6 godzin i 40 minut		
+
 **220 monet**	10 godzin +10 godzin +10 godzin + 6 godzin i 40 minut		
 
 ### Remonty
