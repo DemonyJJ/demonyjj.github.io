@@ -9,13 +9,16 @@ Grafikę przygotowała dla was [Kasia Ska](https://www.facebook.com/KaerJP).
 
 ## Obecność w klubie
 Dajemy graczom możliwość poruszać się swobodnie, odwiedzać inne kluby na kawy, pomoc w kotylionach czy z jakichkolwiek innych przyczyn, nie trzeba pytać o pozwolenie żeby wyjść i wrócić do klubu.
-**Obowiązkowo trzeba być w klubie na kawy** (najlepiej 10 minut wcześniej) oraz **dzień przed wyzwaniem o 15 UTC**. W Polsce to jest godzina 17 czasu letniego - 16 czasu zimowego.
+
+**Obowiązkowo trzeba być w klubie na kawy** (Jeśli jesteś poza klubem, wróć 10 minut wcześniej.) oraz **dzień przed wyzwaniem o 15 UTC**. W Polsce to jest godzina 17 czasu letniego - 16 czasu zimowego.
 Wtedy przebiega rejestracja do wyzwania.
 Najbezpieczniej wejść trochę wcześniej, żeby się nie spóźnić i odczekać co najmniej godzinę. Potem można znowu łazić.
 
-Jeżeli masz więcej kont, możesz je sobie podmieniać, tylko napisz, że to jesteś Ty, żebyśmy Ciebie nie szukali i twojego konta nie wyrzucili z klubu.  
+Być w klubie oznacza, że twoje konto widnieje na liście członków klubu. Nie musisz mieć w tym czasie otwartej gry.
 
-Wychodząc z klubu jeśli zauważysz, że nasi gracze nie mają oficera możesz im go dać. Nie dawaj kontom, których nie jesteś pewien, do kogo należą, czasem ktoś obcy się przybłąka. ;)
+Jeżeli masz więcej kont, możesz je sobie podmieniać, tylko napisz, że to jesteś Ty, żebyśmy Ciebie nie szukali a twojego konta nie wyrzucili z klubu.  
+
+Wychodząc z klubu jeśli zauważysz, że nasi gracze nie mają oficera możesz im go dać. Nie dawaj tarczy kontom, których nie jesteś pewien, do kogo należą, czasem ktoś obcy się przybłąka. ;)
 
 ## Messenger
 **InfoCzat jest obowiązkowy**, tam wrzucamy najważniejsze informacje dotyczące klubu. Kiedy są wyzwania, kiedy przechodzimy do drugiego klubu, czy zmiany w tabelce krzakowej.
@@ -81,10 +84,18 @@ Krzaki tym samym graczom można dawać co 22 godziny. Kierować się należy tyl
 ![Image](/img/BushCount2.png)  
 Ten licznik widać, kiedy odwiedzamy graczy, nie jest on jednak związany w żaden sposób z tym, o której daliśmy tej osobie krzaka. U każdego zobaczycie dokładnie ten sam czas, nawet jeśli krzaki rozdaliście na przestrzeni kilku godzin, lub nawet dni.
 Jest to odliczanie do momentu, kiedy wygeneruje wam się cały nowy zestaw krzaków.
-## Wyzwania
-W Demonach wyzwania każdy gra jak chce. Bardzo często mamy pudła ponieważ przechodzimy sobie z klubu do klubu. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie. Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce komuś, żeby się nie zmarnowały nagrody.
+# Wyzwania
+W Demonach wyzwania każdy gra jak chce. Bardzo często mamy pudła ponieważ przechodzimy sobie z klubu do klubu. Nie jest to jednak gwarancją wygranej, bo coraz więcej klubów robi dokładnie to samo i coraz częściej trafiamy na niespodzianki.  
+Jeżeli masz ochotę zagrać najlepiej jak potrafisz, nie ma znaczenia o której godzinie grasz. Jeśli jednak chcesz zagrać jak najkrócej to jeśli to możliwe, zagraj na sam koniec czasu, wtedy łatwiej ocenić, czy można odpuścić po jednej powtórce, czy trzeba zagrać chwilkę dłużej, żeby nam nie zabrakło kilku minut grania do wygranej. 
+
+Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. 
+
+Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce komuś, żeby się nie zmarnowały nagrody.
 ### Kiedy zmieniamy klub
 [![Image](/img/Transfer1.png)](/img/Transfer2.png)  
+Klub zmieniamy zazwyczaj w czwartki i niedziele, chyba że Wooga zmieni kalendarz z wyzwaniami. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie.
+
+Kluby nazywają się identycznie po to, żeby nie trzeba było pamiętać w którym aktualnie się znajdujemy. Wpisujesz w wyszukiwarkę Demony i wchodzisz do tego, który jest otwarty.
 
 # Bezpieczeństwo
 Żeby nie stracić swojego postępu w grze warto zadbać o kilka rzeczy:  
@@ -97,22 +108,28 @@ W Demonach wyzwania każdy gra jak chce. Bardzo często mamy pudła ponieważ pr
 [![Image](/img/LOG1.png)](/img/LOG2.png)  
 
 ## Wakacje / Wyjazdy
-Jeżeli zbliża Ci się wyjazd, albo pobyt w szpitalu, czy cokolwiek, nie musisz podawać szczegółów, jeśli nie chcesz, ale napisz jak długo Ciebie nie będzie i czy będziesz w stanie dawać krzaki raz dziennie, być na kawach i brać udział w wyzwaniach. 
-Zależnie od bieżących okoliczności umówimy się indywidualnie jak rozwiążemy tą sprawę. Często gracze, którzy nie mogą brać udziału w kawach czy wyzwaniach odstępują miejsce komuś z nas.
+Jeżeli zbliża Ci się wyjazd, albo pobyt w szpitalu, czy cokolwiek, nie musisz podawać szczegółów, jeśli nie chcesz, ale napisz jak długo Ciebie nie będzie i czy będziesz w stanie dawać krzaki raz dziennie, być na kawach i brać udział w wyzwaniach (zrobić chociaż powtórkę). 
+Zależnie od bieżących okoliczności umówimy się indywidualnie jak rozwiążemy tą sprawę. Gracz, który nie może brać udziału w kawach czy wyzwaniach robi miejsce dla innego gracza, żeby kawy ani nagrody z wyzwania się nie marnowały.
 
 # Liga
-To jest trudny punkt, bo nie chcę dawać żadnych limitów, ile trzeba zdobyć punktów. Czasem każdemu może się zdarzyć gorszy tydzień, kiedy życie daje popalić. Liczę na waszą uczciwość, że będziecie grali tyle, ile dacie rady, żeby ciężar awansu nie spoczywał na tych samych graczach cały czas. Mile widziana jest komunikacja na czacie, bądź na priv. Nawet jeśli dopadnie was kryzys w grze, nie sprzyja wam gazetka, dajcie znać. To żaden wstyd.
+Nie mamy żadnych limitów, ile trzeba zdobyć punktów. Czasem każdemu może się zdarzyć gorszy tydzień, kiedy życie daje w kość. Liczę na waszą uczciwość, że będziecie grali tyle, ile dacie rady, żeby ciężar awansu nie spoczywał na tych samych graczach cały czas. Nawet jeśli dopadnie was kryzys w grze, nie sprzyja wam gazetka, dajcie znać na czacie, lub w prywatnej wiadomości. To żaden wstyd. Pomimo braku limitów gracze widzą kto się stara a kto nie i zupełnie inaczej to odbierają, jeśli wiedzą jaka jest tego przyczyna.
+
+W lidze bardzo często pomagamy sobie z June Polska awansować do Sherlocków. Często też pomagamy innym klubom, jak mamy ochotę. Nie jest to obowiązkowe, zwyczajnie lubimy pomagać.
+W następnej lidze spróbujemy awansować również jeden z klonów z dwutygodniowym poślizgiem tak, żeby mieć co robić i żeby gracze mogli sobie odebrać nagrodę również na kontach dodatkowych.
 
 ## Strategia do zadań z gazetki
 Zadania, które wymagają zbyt długiego czasu staramy się odrzucać. Np. cztery remonty, zebranie 220 lub 100 monet z posiadłości, przejście do nowego rozdziału, jeśli dopiero co się rozpoczęło nowy.
 ### Odrzucanie zadań
-Warto dobrze znać stan swojego konta, wiedzieć ile monet jest na posiadłości, czy masz na słoiku napiwki do odebrania, czy obiekt się remontuj i kiedy mniej więcej się remont kończy.
+Warto dobrze znać stan swojego konta, wiedzieć ile monet jest na posiadłości, czy masz na słoiku napiwki do odebrania, czy obiekt się remontuje i kiedy mniej więcej się remont kończy.
 Potrzebna jest ta wiedza po to, żeby decyzję o odrzuceniu zadania podjąć w mgnieniu oka.  
 [![Image](/img/Reject.png)](/img/Reject.png)
 
 ### Zbierz 45 monet z posiadłości
 Liczą się tylko monetki z głównego budynku. Posiadłość produkuje 1 monetę co 10 min. Max po 10 godzinach - 60 monet. Polecam nie zbierać monet z tego budynku wtedy, kiedy zamierzasz grać. Nie jest to duża strata a za to zadanie ma się zrobione od ręki. Warto też zwrócić uwagę kiedy się je zbiera, następne 45 monet będzie wyprodukuje się za 7 godzin i 30 minut.
 100 i 220 monet radziłabym w trakcie ligi odrzucić, ale jak nie ma ligi to ściąga do zbierania monet:
+**45 monet**	7 godzin i 30 minut		
+**100 monet**	10 godzin + 6 godzin i 40 minut		
+**220 monet**	10 godzin +10 godzin +10 godzin + 6 godzin i 40 minut		
 
 ### Remonty
 To zadanie oznacza wyremontowanie latarni, kaplicy, statku, chaty górskiej i ptaszarni.
