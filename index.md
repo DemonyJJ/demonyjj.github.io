@@ -105,7 +105,8 @@ Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtór
 
 Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce, żeby się nie zmarnowały nagrody.  
 [Analiza TR - wyzwanie na czas](/files/Analiza-TR.pdf)  
-[Analiza STD - różnice](/files/Analiza-STD.pdf)
+[Analiza STD - różnice](/files/Analiza-STD.pdf)  
+Autorką analiz jest Junka AS z Podziemia.
 ### Kiedy zmieniamy klub
 [![Image](/img/Transfer1.png)](/img/Transfer2.png)  
 Klub zmieniamy zazwyczaj w czwartki i niedziele, chyba że Wooga zmieni kalendarz z wyzwaniami. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie.
