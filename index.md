@@ -93,7 +93,8 @@ Jeżeli masz ochotę zagrać najlepiej jak potrafisz, nie ma znaczenia o której
 Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. 
 
 Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce, żeby się nie zmarnowały nagrody.  
-[Analiza TR](/files/Analiza-TR.pdf)
+[Analiza TR - wyzwanie na czas](/files/Analiza-TR.pdf)  
+[Analiza STD - różnice](/files/Analiza-STD.pdf)
 ### Kiedy zmieniamy klub
 [![Image](/img/Transfer1.png)](/img/Transfer2.png)  
 Klub zmieniamy zazwyczaj w czwartki i niedziele, chyba że Wooga zmieni kalendarz z wyzwaniami. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie.
@@ -134,7 +135,12 @@ Liczą się tylko monetki z głównego budynku. Posiadłość produkuje 1 monet�
 
 **45 monet**	7 godzin i 30 minut  
 **100 monet**	10 godzin + 6 godzin i 40 minut  
-**220 monet**	10 godzin +10 godzin +10 godzin + 6 godzin i 40 minut		
+**220 monet**	10 godzin +10 godzin +10 godzin + 6 godzin i 40 minut	
+
+### Zdobąć kompasy
+Kompasy wpadają podczas grania scen. Czasami częściej, czasami rzadziej. Można je też wyciągać z pudełek. Większe prawdopodobieństwo znalezienia kompasów mamy w turkusowych pudełkach. W różowych szukamy tylko wtedy, kiedy turkusowych mamy bardzo mało. Świetnym sposobem na zasania z kompasami jest nie odbieranie nagrody z wyzwania, lub z detektywów. 
+Nagrody z wyzwania spokojnie doczekają do następnego wyzwania, nawet jeśli zmieniasz klub, możesz po nie wrócić.
+Kompasy zdobyte w detektywach będą dostępne do czasu aż skończy się czas detektywów. Wystarczy nie otwierać tego okienka dopóki nie wpadnie nam interesujące nas zadanie. O ukończeniu detektywów bez otwierania okienka dowiemy się tak, że przestaną wpadać kluczyki ze scen i znikną też z gazetki.
 
 ### Remonty
 To zadanie oznacza wyremontowanie latarni, kaplicy, statku, chaty górskiej i ptaszarni.
@@ -142,7 +148,7 @@ Co 20 godzin można zrobić 2. Jedynie przy ukończeniu jednego obiektu i rozpoc
 Macie możliwość albo odrzucać wszelkie tego typu zadania, albo remontować tylko kiedy wpadnie takie zadanie. Opóźni wam to dotarcie do ptaszarni i hodowli ptaków, to już zależy od was, czy wam się do tego spieszy. Ilość produkowanej energii jest znikoma a ilość kwiatków można spokojnie zastąpić kupując dekoracje. To już od was zależy. 
 
 ### Podnieś poziom
-W tym zadaniu jedyne, co trzeba zrobić to zebrać tyle kwiatków, ile potrzeba do tego, żeby podnieść swój poziom. Można rozpakować czerwoną kokardę z wybudowanej dekoracji, można coś wyciągnąć ze statku, zrobić remont, postawić na wyspie cudowną dekorację z różowego pudła,  dostać kwiatki od Jacka samolotem, lub pozłocić budynek. Nie ma znaczenia, byle dało tyle kwiatków, ile trzeba do następnego poziomu.
+W tym zadaniu jedyne, co trzeba zrobić to zebrać tyle kwiatków, ile potrzeba do tego, żeby podnieść swój poziom. Można rozpakować czerwoną kokardę z wybudowanej dekoracji, można coś wyciągnąć ze statku, zrobić remont, postawić na wyspie cudowną dekorację z różowego pudła,  dostać kwiatki od Jacka samolotem, lub pozłocić budynek. Nie ma znaczenia, byle dało tyle kwiatków, ile trzeba do następnego poziomu.  
 Warto nie otwierać sobie za dużo poziomów do przodu, tylko tyle, ile potrzebne Ci do gry a nadmiar kwiatków chować na statku na wypadek takiego zadania. Można też nie stawiać na wyspie cudownych dekoracji, jakie wypadły Ci z pudełka. Przy zakończeniu miesiąca automatycznie zostaną schowane na statku.
 ### Przejdź do nowego rozdziału i zbierz 4 poszlaki
 Te dwa zadania można znacząco przyspieszyć używając premii gwiazdkowej (Starbooster).
