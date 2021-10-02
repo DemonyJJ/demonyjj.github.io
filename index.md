@@ -7,8 +7,6 @@ To co dla nas jest oczywiste dla nowych osób może wydawać się skomplikowane 
 Zawarłam tutaj też odpowiedzi na często pojawiające się pytania.  
 Grafikę przygotowała dla was [Kasia Ska](https://www.facebook.com/KaerJP).
 
-# Test
-
 ## Obecność w klubie
 Dajemy graczom możliwość poruszać się swobodnie, odwiedzać inne kluby na kawy, pomoc w kotylionach czy z jakichkolwiek innych przyczyn, nie trzeba pytać o pozwolenie żeby wyjść i wrócić do klubu.
 
@@ -86,6 +84,19 @@ Krzaki tym samym graczom można dawać co 22 godziny. Kierować się należy tyl
 ![Image](/img/BushCount2.png)  
 Ten licznik widać, kiedy odwiedzamy graczy, nie jest on jednak związany w żaden sposób z tym, o której daliśmy tej osobie krzaka. U każdego zobaczycie dokładnie ten sam czas, nawet jeśli krzaki rozdaliście na przestrzeni kilku godzin, lub nawet dni.
 Jest to odliczanie do momentu, kiedy wygeneruje wam się cały nowy zestaw krzaków.
+# Bezpieczeństwo
+Żeby nie stracić swojego postępu w grze warto zadbać o kilka rzeczy:  
+1. Zrób zdjęcie swojego numeru UID i wyślij sobie na maila, w ten sposób jeśli twój telefon zaginie, lub przestanie działać cały czas będziesz mieć dostęp do zdjęcia z numerem UID.
+2. Połącz konto w grze z kontem na FB, dzięki temu będziesz móc się logować na konto z różnych urządzeń.
+3. Najlepiej mieć inne hasło do maila niż do FB.
+![Image](/img/UID.png) 
+
+# Zarządzanie drugim kontem
+Drugie konto w tabelce za i przeciw
+
+## Bezpieczne logowanie się na konto
+[![Image](/img/LOG1.png)](/img/LOG2.png)  
+
 # Wyzwania
 W Demonach wyzwania każdy gra jak chce. Bardzo często mamy pudła ponieważ przechodzimy sobie z klubu do klubu. Nie jest to jednak gwarancją wygranej, bo coraz więcej klubów robi dokładnie to samo i coraz częściej trafiamy na niespodzianki.  
 Jeżeli masz ochotę zagrać najlepiej jak potrafisz, nie ma znaczenia o której godzinie grasz. Jeśli jednak chcesz zagrać jak najkrócej to jeśli to możliwe, zagraj na sam koniec czasu, wtedy łatwiej ocenić, czy można odpuścić po jednej powtórce, czy trzeba zagrać chwilkę dłużej, żeby nam nie zabrakło kilku minut grania do wygranej. 
@@ -100,16 +111,6 @@ Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i na
 Klub zmieniamy zazwyczaj w czwartki i niedziele, chyba że Wooga zmieni kalendarz z wyzwaniami. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie.
 
 Kluby nazywają się identycznie po to, żeby nie trzeba było pamiętać w którym aktualnie się znajdujemy. Wpisujesz w wyszukiwarkę Demony i wchodzisz do tego, który jest otwarty.
-
-# Bezpieczeństwo
-Żeby nie stracić swojego postępu w grze warto zadbać o kilka rzeczy:  
-1. Zrób zdjęcie swojego numeru UID i wyślij sobie na maila, w ten sposób jeśli twój telefon zaginie, lub przestanie działać cały czas będziesz mieć dostęp do zdjęcia z numerem UID.
-2. Połącz konto w grze z kontem na FB, dzięki temu będziesz móc się logować na konto z różnych urządzeń.
-3. Najlepiej mieć inne hasło do maila niż do FB.
-![Image](/img/UID.png) 
-
-## Bezpieczne logowanie się na konto
-[![Image](/img/LOG1.png)](/img/LOG2.png)  
 
 ## Wakacje / Wyjazdy
 Jeżeli zbliża Ci się wyjazd, albo pobyt w szpitalu, czy cokolwiek, nie musisz podawać szczegółów, jeśli nie chcesz, ale napisz jak długo Ciebie nie będzie i czy będziesz w stanie dawać krzaki raz dziennie, być na kawach i brać udział w wyzwaniach (zrobić chociaż powtórkę). 
@@ -154,11 +155,17 @@ Warto nie otwierać sobie za dużo poziomów do przodu, tylko tyle, ile potrzebn
 Te dwa zadania można znacząco przyspieszyć używając premii gwiazdkowej (Starbooster).
  
 Do nowego rozdziału wystarczy ci zdobycie 20 gwiazdek, wszystko jedno, czy zrobisz 5 scen na 4 gwiazdki, czy np jedną na 5 gwiazdek a jedną na 3. Możesz szybciej przejść, żeby odhaczyć sobie zadanie a następnie jak masz zadanie do którego musisz tylko grać (np. zagraj 48 razy, uzbieraj z gry monety, materiały, lub znajdź 600 rzeczy) to wtedy sobie wracasz i wykańczasz sceny do końca zdobywając różowe pudła. Można też wrócić do tych scen wtedy, kiedy masz zadanie pobij rekord.  
-Osobiście polecam trochę dłużej pograć scenę nawet jak już się zdobyło 5 gwiazdek i różowe pudło. Można sobie np. samemu ustalić ile punktów trzeba osiągnąć, żeby przejść do następnej sceny. To bardzo fajny trening szybkości a jednocześnie pozwala zarobić monetki i nie grać za szybko, żeby nie zabrakło Ci kwiatków do otwarcia następnych scen.
+Osobiście polecam trochę dłużej pograć scenę nawet jak już się zdobyło 5 gwiazdek i różowe pudło. Można sobie np. samemu ustalić ile punktów trzeba osiągnąć, żeby przejść do następnej sceny. To bardzo fajny trening szybkości a jednocześnie pozwala zarobić monetki i nie grać za szybko, żeby nie zabrakło Ci kwiatków do otwarcia następnych scen.  
+### Pobij rekord 5 lub 10 razy
+Bardzo fajnie można pobijać rekordy na początkowych scenach, tam zazwyczaj każdy ma mało punktów i łatwo poprawić. Można też w tym celu wykańczać sceny, które zostawiliśmy z trzema, lub czterema gwiazdkami. Jeśli grasz świeżą scenę to każda nowa gwiazdka to gwarantowane bicie rekordu (bo dochodzą nowe przedmioty o większej wartości), ale warto też pobić rekord w ramach jednej gwiazdki. 
 
 ### Wydaj 640, 2000 lub 4000 monet na kolekcję sezonową
 To są super zadania do zrobienia od ręki. Każdy sezon zbiera punkty sezonowe za które otrzymuje się nagrodę główną. Warto nie zdobywać jej za szybko, bo jeśli zdobędziesz nagrodę główną, przestaną ci wpadać te zadania a one są proste i szybkie do zrobienia. Dlatego warto nie zdejmować kokard żeby nie zakończyć sezonu zbyt szybko i nie stawiać dekoracji z różowych pudeł od razu na wyspie.  
 Dopiero pod koniec miesiąca na tydzień przed końcem upewnij się, że masz wystarczająco zakupione, jeśli brakuje, dokupić na tyle wcześnie, żeby zdążyło się dobudować bez przyspieszania diamentami. 
 ![Image](/img/Sezon.png)
+
+### Otwórz pudło
+Zarządzanie pudłami w trakcie ligi i poza nią
+Znajdź materiały
 
 # Historia Demonów
