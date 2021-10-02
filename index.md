@@ -169,4 +169,9 @@ Dopiero pod koniec miesiąca na tydzień przed końcem upewnij się, że masz wy
 Zarządzanie pudłami w trakcie ligi i poza nią
 Znajdź materiały
 
+Character cards are linked to story line. So you don't get cards with someone, you have no idea who he is, or with familiar character, but with memory that is revealing something from later story line.
+So if you will stop receiving character cards - moving forward in story line can often help with that.
+
+Jak sprawdzić ile mam kompasów.
+
 # Historia Demonów
