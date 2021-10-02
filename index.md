@@ -92,7 +92,8 @@ Jeżeli masz ochotę zagrać najlepiej jak potrafisz, nie ma znaczenia o której
 
 Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. 
 
-Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce, żeby się nie zmarnowały nagrody.
+Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce, żeby się nie zmarnowały nagrody.  
+[Analiza TR](/files/Analiza-TR.pdf)
 ### Kiedy zmieniamy klub
 [![Image](/img/Transfer1.png)](/img/Transfer2.png)  
 Klub zmieniamy zazwyczaj w czwartki i niedziele, chyba że Wooga zmieni kalendarz z wyzwaniami. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie.
