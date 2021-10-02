@@ -77,7 +77,7 @@ Jeśli masz drugie konto naprawiasz samodzielnie swój błąd, a na czacie infor
 ### Co jeśli widzę na statku, że od kogoś nie dostałem krzaka już drugi dzień?
 Zwyczajnie przypomnij na czacie, że brakuje Ci tego krzaka. Bez wyrzutów, zwyczajna przypominajka. Jeżeli ktoś Ciebie wywoła, sprawdź w pierwszej kolejności grę. Czasem zdarza się, że rozdane krzaki się cofają, lub nie są widoczne u odbiorcy. Jeśli widać, że krzak podarowałeś, zrób zrzut ekranu i wrzuć na czat. Sprawa załatwiona.
 Jeśli nie rozdałeś lub krzaki cofnęło, być może zdążysz rozdać jeszcze przed regeneracją krzaków a być może będzie trzeba brakujące krzaki uzupełnić z dodatkowego konta.
-## Gra nie pozwala mi dać krzaki, pisze, że dopiero za 23 godziny!
+## Gra nie pozwala mi dać krzaki, napisane jest, że dopiero za 23 godziny!
 Krzaki tym samym graczom można dawać co 22 godziny. Kierować się należy tylko licznikiem na łódce, gdzie widać listę odbiorców. To jedyne miejsce, gdzie ten licznik widać. Dlatego mamy taki system, żeby dostawać od innych graczy, żeby nam to nie znikało z łódki, kiedy ktoś nam krzaka posadzi.  
 ![Image](/img/BushCount1.png)  
 ### Regeneracja krzaków
@@ -90,7 +90,7 @@ Jeżeli masz ochotę zagrać najlepiej jak potrafisz, nie ma znaczenia o której
 
 Czasami prosimy graczy, żeby zagrali dla kotylionów więcej niż tylko powtórkę jeśli są w stanie. Ale na ogół zazwyczaj obowiązuje zasada, że każdy gra, jak chce i można zrobić tylko jedną powtórkę dla nagrody. 
 
-Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce komuś, żeby się nie zmarnowały nagrody.
+Jeśli ktoś wyjeżdża gdzieś, gdzie nie będzie miał zasięgu internetu i nawet nie da rady zrobić jednej powtórki, to ta sama zasada, co z kawami, może odstąpić miejsce, żeby się nie zmarnowały nagrody.
 ### Kiedy zmieniamy klub
 [![Image](/img/Transfer1.png)](/img/Transfer2.png)  
 Klub zmieniamy zazwyczaj w czwartki i niedziele, chyba że Wooga zmieni kalendarz z wyzwaniami. Jedynie podczas kluczowych tygodni ligi, kiedy mamy za mały dystans w kotylionach zostajemy w tym samym klubie.
@@ -119,7 +119,8 @@ W następnej lidze spróbujemy awansować również jeden z klonów z dwutygodni
 
 ## Strategia do zadań z gazetki
 Zadania, które wymagają zbyt długiego czasu staramy się odrzucać. Np. cztery remonty, zebranie 220 lub 100 monet z posiadłości, przejście do nowego rozdziału, jeśli dopiero co się rozpoczęło nowy.
-### Odrzucanie zadań
+
+## Odrzucanie zadań
 Warto dobrze znać stan swojego konta, wiedzieć ile monet jest na posiadłości, czy masz na słoiku napiwki do odebrania, czy obiekt się remontuje i kiedy mniej więcej się remont kończy.
 Potrzebna jest ta wiedza po to, żeby decyzję o odrzuceniu zadania podjąć w mgnieniu oka.  
 [![Image](/img/Reject.png)](/img/Reject.png)
@@ -136,6 +137,7 @@ Liczą się tylko monetki z głównego budynku. Posiadłość produkuje 1 monet�
 To zadanie oznacza wyremontowanie latarni, kaplicy, statku, chaty górskiej i ptaszarni.
 Co 20 godzin można zrobić 2. Jedynie przy ukończeniu jednego obiektu i rozpoczęciu następnego można zrobić 4 remonty od ręki, warto to mieć na uwadze.
 Macie możliwość albo odrzucać wszelkie tego typu zadania, albo remontować tylko kiedy wpadnie takie zadanie. Opóźni wam to dotarcie do ptaszarni i hodowli ptaków, to już zależy od was, czy wam się do tego spieszy. Ilość produkowanej energii jest znikoma a ilość kwiatków można spokojnie zastąpić kupując dekoracje. To już od was zależy. 
+
 ### Podnieś poziom
 W tym zadaniu jedyne, co trzeba zrobić to zebrać tyle kwiatków, ile potrzeba do tego, żeby podnieść swój poziom. Można rozpakować czerwoną kokardę z wybudowanej dekoracji, można coś wyciągnąć ze statku, zrobić remont, postawić na wyspie cudowną dekorację z różowego pudła,  dostać kwiatki od Jacka samolotem, lub pozłocić budynek. Nie ma znaczenia, byle dało tyle kwiatków, ile trzeba do następnego poziomu.
 Warto nie otwierać sobie za dużo poziomów do przodu, tylko tyle, ile potrzebne Ci do gry a nadmiar kwiatków chować na statku na wypadek takiego zadania. Można też nie stawiać na wyspie cudownych dekoracji, jakie wypadły Ci z pudełka. Przy zakończeniu miesiąca automatycznie zostaną schowane na statku.
@@ -146,6 +148,8 @@ Do nowego rozdziału wystarczy ci zdobycie 20 gwiazdek, wszystko jedno, czy zrob
 Osobiście polecam trochę dłużej pograć scenę nawet jak już się zdobyło 5 gwiazdek i różowe pudło. Można sobie np. samemu ustalić ile punktów trzeba osiągnąć, żeby przejść do następnej sceny. To bardzo fajny trening szybkości a jednocześnie pozwala zarobić monetki i nie grać za szybko, żeby nie zabrakło Ci kwiatków do otwarcia następnych scen.
 
 ### Wydaj 640, 2000 lub 4000 monet na kolekcję sezonową
-To są super zadania do zrobienia od ręki. Każdy sezon zbiera punkty sezonowe za które otrzymuje się nagrodę główną. Warto nie zdobywać jej za szybko, bo jeśli zdobędziesz nagrodę główną, przestaną ci wpadać te zadania a one są proste i szybkie do zrobienia. Dlatego warto nie zdejmować kokard żeby nie zakończyć sezonu zbyt szybko. Dopiero pod koniec miesiąca na tydzień przed końcem upewnij się, że masz wystarczająco zakupione, żeby ewentualnie jeszcze dokupić i żeby zdążyło się dobudować bez przyspieszania diamentami. 
+To są super zadania do zrobienia od ręki. Każdy sezon zbiera punkty sezonowe za które otrzymuje się nagrodę główną. Warto nie zdobywać jej za szybko, bo jeśli zdobędziesz nagrodę główną, przestaną ci wpadać te zadania a one są proste i szybkie do zrobienia. Dlatego warto nie zdejmować kokard żeby nie zakończyć sezonu zbyt szybko i nie stawiać dekoracji z różowych pudeł od razu na wyspie.  
+Dopiero pod koniec miesiąca na tydzień przed końcem upewnij się, że masz wystarczająco zakupione, jeśli brakuje, dokupić na tyle wcześnie, żeby zdążyło się dobudować bez przyspieszania diamentami. 
+![Image](/img/Sezon.png)
 
 # Historia Demonów
