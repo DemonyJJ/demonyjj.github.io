@@ -7,6 +7,8 @@ To co dla nas jest oczywiste dla nowych osób może wydawać się skomplikowane 
 Zawarłam tutaj też odpowiedzi na często pojawiające się pytania.  
 Grafikę przygotowała dla was [Kasia Ska](https://www.facebook.com/KaerJP).
 
+# Test
+
 ## Obecność w klubie
 Dajemy graczom możliwość poruszać się swobodnie, odwiedzać inne kluby na kawy, pomoc w kotylionach czy z jakichkolwiek innych przyczyn, nie trzeba pytać o pozwolenie żeby wyjść i wrócić do klubu.
 
