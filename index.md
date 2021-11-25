@@ -4,7 +4,7 @@
 # Jak zrobić milion w różnicach bez ME
 ## Zapoznaj się ze scenami
 Nie trzeba się uczyć słówek, ale warto zobaczyć co jest obiektem, gdzie może być różnica a co jest jedynie częścią tła. 
-Np w tej kuchni talerzyki na oknie nie są obiektem, nie trzeba tracić czasu i je sprawdzać.
+Np w tej kuchni talerzyki nad oknem nie są obiektem, nie trzeba tracić czasu i je sprawdzać.
 
 ![Image](/img/example01.jpg) 
 
