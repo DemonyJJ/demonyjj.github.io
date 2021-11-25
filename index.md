@@ -33,7 +33,8 @@ Celem nie jest zobaczyć cały obrazek, tylko znaleźć wystarczająco dużo ró
 ## Wykup dużą ilość wskazówek
 Kup conajmniej 120 wskazówek, albo i więcej. Staraj się wyszukać każdy ostatni przedmiot, lub dwa za pomocą wskazówek. Nie chodzi o to, czy jesteś w stanie te przedmioty znaleźć, czy nie, chodzi o oszczędność czasu. Jeśli jeszcze ci się nie rzucił w oczy, to znaczy, że może być trudny do zobaczenia. To, co było łatwe już znalazłeś. Wyszukanie wskazówką ostatnich przedmiotów pozwala zaoszczędzić czas na dodatkowe rundy. 
 
-## Trenuj klikanie w przedmioty nie patrząc na swój palec. Ja często prawą ręką klikam na prawej stronie obrazka a w tym samym czasie oczami oglądam lewy obrazek.
+## Nie przerywaj szukania klikając w różnice
+Trenuj klikanie w przedmioty nie patrząc na swój palec. Ja często prawą ręką klikam na prawej stronie obrazka a w tym samym czasie oczami oglądam lewy obrazek.
 Ta umiejętność wymaga trochę ćwiczeń.
 
 ## Baw się przy tym dobrze! :)
