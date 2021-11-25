@@ -6,11 +6,11 @@
 Nie trzeba się uczyć słówek, ale warto zobaczyć co jest obiektem, gdzie może być różnica a co jest jedynie częścią tła. 
 Np w tej kuchni talerzyki na oknie nie są obiektem, nie trzeba tracić czasu i je sprawdzać.
 
-## Nie biegaj oczami z obrazka na obrazek, tylko sprawdzaj przedmioty jak listę obecności na jednym a potem na drugim obrazku. 
-Np. oglądasz szafkę po jednej stronie a potem po drugiej, czy czegoś w tej szafce nie brakuje.
-
-
 ![Image](/img/example01.jpg) 
+
+## Nie biegaj oczami z obrazka na obrazek
+Sprawdzaj przedmioty jak listę obecności na jednym a potem na drugim obrazku. Np. oglądasz całą szafkę po jednej stronie a potem po drugiej, czy czegoś w tej szafce nie brakuje.
+
 
 ## Naucz się pierwsze 4 przedmioty
 Przygotuję wam w sobotę rano takie obrazki, na których będą zaznaczone pierwsze 4 przedmioty. Trzeba je zapamiętać, bo te są zawsze takie same i w pierwszej rundzie szybciutko je wyklikać. Dzięki temu oszczędzimy czas na dodatkowe dwie, trzy rundy.
